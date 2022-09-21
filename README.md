@@ -22,7 +22,6 @@ Fazer o clone do projeto:
 
 Instalar as dependências:
 - npm install
-
 Rodar o projeto:
 - npm run start
 
