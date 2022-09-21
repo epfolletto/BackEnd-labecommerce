@@ -5,6 +5,7 @@ LabEcommerce
 [Clique aqui!](https://folletto-labecommerce.herokuapp.com/)
 
 # `Descrição`
+[Projeto desenvolvido na semana 18 do curso Labenu]. </br>
 O Projeto LabEcommerce-backend foi desenvolvido como uma atividade dentro do curso Full-Stack Web Developer da Labenu, o qual consiste na elaboração de uma API que retorna dados conforme as requisições enviadas. Trata-se de uma ferramenta de cadastro de usuários, produtos e registro de compras. As requisições implementadas são:
 
 - **createUser:** cadastrar novo usuário, fornecendo (via body) nome, email e password.
