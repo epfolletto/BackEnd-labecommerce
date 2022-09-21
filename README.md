@@ -1,5 +1,5 @@
 # `Projeto`
-LabEcommerce-backend
+LabEcommerce
 
 # `Link`
 [Clique aqui!](https://folletto-labecommerce.herokuapp.com/)
