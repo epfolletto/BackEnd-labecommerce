@@ -1,5 +1,5 @@
 # `Projeto`
-LabEcommerce - backend
+LabEcommerce-backend
 
 # `Link`
 [Clique aqui!](https://folletto-labecommerce.herokuapp.com/)
@@ -22,6 +22,7 @@ Fazer o clone do projeto:
 
 Instalar as dependências:
 - npm install
+
 Rodar o projeto:
 - npm run start
 
@@ -45,5 +46,5 @@ Fazer as requisições para os endpoint mostrados na documentação, utilizando,
 </div>
 
 # `Autor`
-Evandro Paulo Folletto
+Evandro Paulo Folletto </br>
 <a href="https://www.linkedin.com/in/evandrofolletto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/epfolletto"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
